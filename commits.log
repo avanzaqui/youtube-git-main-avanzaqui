@@ -1,0 +1,91 @@
+commit f122df622de781e97293a6e09a59990870811814
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 21:06:59 2024 -0400
+
+    Agregando 2 párrafos
+
+commit 2e2638ae3ac222329dbfe4aa2f82afd18f4fdc4a
+Merge: 46ca1e2 ac143f5
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 20:44:44 2024 -0400
+
+    Resolviendo conflicto en estaciones del año y  fecha de inicio
+
+commit 46ca1e26825aea932342bb3b7550feab2acbb44a
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 19:33:18 2024 -0400
+
+    Agregando estaciones del año con fecha
+
+commit ac143f5fe7646827f20d2dbfe002fc5cd94f293c
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 19:33:18 2024 -0400
+
+    Agregando las estaciones del año
+
+commit e279e7c90270e6d84c683cdc9f951051b8538b4d
+Merge: 0c3a235 8721d4d
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 19:19:52 2024 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 8721d4d4934d302740af3791edfe9969e75aef2f
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 19:07:14 2024 -0400
+
+    Agregando index.js al index.html
+
+commit 0c3a23546e7fd67defe6c126accf85e7d0719a13
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 19:00:47 2024 -0400
+
+    Agregando style.css al index.html
+
+commit 13b36dc320c45cffc1758a2451bc4d3f1d679260
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 07:55:13 2024 -0400
+
+    Creando index.js
+
+commit 7b7b01fe5ba060d0d6df7e892f06427ba3e624dd
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 07:38:14 2024 -0400
+
+    Creando style.css
+
+commit fd7eda389999d7c5a886eaca7a401dc597b9e618
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 07:29:15 2024 -0400
+
+    Creando un archivo index.html
+
+commit 58c52411380f60e04f9e5aab536327c63b3a0502
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sun Sep 22 06:55:11 2024 -0400
+
+    Ignorando archivos.exe
+
+commit e984266f5839c3fae06b1b73cd6e5182a8fd5846
+Author: Jonathan Garcia <110783137+GARCIAXP01@users.noreply.github.com>
+Date:   Sat Sep 21 22:32:35 2024 -0400
+
+    Actualizar
+
+commit 8c81c1d2a28ea13ad6dc119e67690792296c4627
+Author: Jonathan Garcia <110783137+GARCIAXP01@users.noreply.github.com>
+Date:   Sat Sep 21 22:25:33 2024 -0400
+
+    Actualizar
+
+commit 96eb309c2bbfeb8cd6ef14312ff2f8642d1f89b6
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sat Sep 21 22:07:31 2024 -0400
+
+    Agregando contenido al README
+
+commit 173115421700e0d0d8bc5c8e97453aec43f28cac
+Author: jonathan garcia <garciaxp01@gmail.com>
+Date:   Sat Sep 21 21:57:54 2024 -0400
+
+    Primer commit
